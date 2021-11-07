@@ -4,7 +4,7 @@ html {
 }
 .mainbody{
 height:800px;
-width:720px;
+width:800px;
 background-color:fuchsia;
 }
 
@@ -16,7 +16,7 @@ h1 {
 
 #container {
     height: 600px;
-    width: 700px;
+    width: 800px;
     background-color: deepskyblue;
     margin: 0 auto;
     border: 5px solid #88B169;
